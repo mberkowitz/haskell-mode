@@ -262,7 +262,7 @@ packages (base-unicode-symbols and containers-unicode-symbols).
  ("mappend"          ["⊕"])
  ;; ("<*>"              ["⊛"])
  (" . "              [" ∘ "])
- ("undefined"        ["⊥"])
+ ;; ("undefined"        ["⊥"])
  (":="               ["≔"])
  ("=:"               ["≕"])
  ("=def"             ["≝"])
