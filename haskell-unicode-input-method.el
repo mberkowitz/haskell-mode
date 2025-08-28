@@ -170,6 +170,9 @@ packages (base-unicode-symbols and containers-unicode-symbols).
  ;; ("<--"              ["⟵"])
  ;; ("<->"              ["↔"])
  ;; ("<-->"             ["⟷"])
+ (">-"               ["⤚"])
+ ("-<"               ["⤙"])
+ ;; ("%1->"                ["⊸"])
 
  ("=>"               ["⇒"])
  ;; ("==>"              ["⟹"])
@@ -197,6 +200,8 @@ packages (base-unicode-symbols and containers-unicode-symbols).
  ;; ("<-<"              ["↢"])
  ;; ("->>"              ["↠"])
  ;; ("<<-"              ["↞"])
+ (">>-"              ["⤜"])
+ ("-<<"              ["⤛"])
 
  ;; (">->>"             ["⤖"])
  ;; ("<<-<"             ["⬻"])
@@ -270,8 +275,10 @@ packages (base-unicode-symbols and containers-unicode-symbols).
  ("..."              ["…"])
 
  ;; Braces
- ;; ("[|"               ["〚"])
- ;; ("|]"               ["〛"])
+ ("[|"               ["〚"])
+ ("|]"               ["〛"])
+ ("(|"               ["⦇"])
+ ("|)"               ["⦈"])
 
  ;; Numeric subscripts
  ("_0 "              ["₀"])
